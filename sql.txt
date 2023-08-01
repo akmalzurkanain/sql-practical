@@ -1,3 +1,1 @@
-bye this is another text.
-hello world!
-this is a text need to make conflicts.
+Hi new text!.
